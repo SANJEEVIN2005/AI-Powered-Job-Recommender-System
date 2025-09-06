@@ -1,0 +1,26 @@
+{
+    "python": {
+        "resume": "Include Python projects and libraries you used, e.g., pandas, Flask.",
+        "interview": "Prepare Python coding questions and OOP concepts."
+    },
+    "sql": {
+        "resume": "Mention SQL queries or database projects in your resume.",
+        "interview": "Practice writing complex SQL queries and database optimization."
+    },
+    "data science": {
+        "resume": "Include data science projects and ML model outcomes.",
+        "interview": "Prepare to explain your ML workflow and data analysis techniques."
+    },
+    "machine learning": {
+        "resume": "Add details about ML models, datasets, and results.",
+        "interview": "Review ML algorithms, model evaluation metrics, and deployment."
+    },
+    "projects": {
+        "resume": "Add a projects section highlighting real-world applications.",
+        "interview": "Be ready to discuss project challenges and learnings."
+    },
+    "certifications": {
+        "resume": "Mention relevant certifications to strengthen your profile.",
+        "interview": "Certifications can help demonstrate expertise; expect related questions."
+    }
+}

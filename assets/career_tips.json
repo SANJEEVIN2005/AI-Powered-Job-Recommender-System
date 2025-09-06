@@ -1,0 +1,22 @@
+{
+  "data scientist": [
+    "Highlight end-to-end ML projects with measurable impact.",
+    "Showcase SQL, statistics, and EDA depth alongside modeling."
+  ],
+  "machine learning engineer": [
+    "Demonstrate MLOps skills (Docker, CI/CD, Kubernetes) with repos.",
+    "Include latency/throughput metrics for deployed models."
+  ],
+  "backend engineer": [
+    "Emphasize API design, auth, and database optimization case-studies.",
+    "Add unit testing and load testing evidence."
+  ],
+  "data analyst": [
+    "Add dashboards (Tableau/Power BI) links and key KPIs you improved.",
+    "Quantify business impact of your analyses."
+  ],
+  "ai engineer": [
+    "List model compression/optimization work and benchmarks.",
+    "Show experience fine-tuning transformers on domain data."
+  ]
+}

@@ -1,0 +1,37 @@
+python
+java
+c++
+sql
+pandas
+numpy
+statistics
+machine learning
+deep learning
+tensorflow
+pytorch
+scikit-learn
+nlp
+transformers
+spacy
+fastapi
+flask
+django
+docker
+kubernetes
+mlops
+ci/cd
+rest api
+postgres
+mysql
+mongodb
+excel
+tableau
+power bi
+data visualization
+feature engineering
+a/b testing
+git
+linux
+aws
+gcp
+azure

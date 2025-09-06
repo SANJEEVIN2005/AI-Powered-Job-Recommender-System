@@ -1,0 +1,32 @@
+job_id,title,company,location,employment_type,description
+J001,Data Scientist,Alpha Analytics,"Bengaluru, KA, India",Full-time,Build predictive models and analyze datasets for business insights.
+J002,Machine Learning Engineer,VisionWorks,"Hyderabad, TS, India",Full-time,Deploy ML models for computer vision and NLP.
+J003,Backend Engineer (Python),CloudNebula,"Remote, India",Contract,Develop scalable APIs using Django and Flask.
+J004,Frontend Developer,TechVision,"Delhi, DL, India",Full-time,Build responsive UIs with React and Tailwind.
+J005,Full Stack Developer,CodeSphere,"Mumbai, MH, India",Full-time,Work across MERN stack projects end-to-end.
+J006,Blockchain Developer,CryptoChain,"Bengaluru, KA, India",Full-time,Develop decentralized applications and smart contracts.
+J007,Cybersecurity Analyst,SecureOps,"Pune, MH, India",Full-time,"Monitor threats, conduct penetration testing and security audits."
+J008,Cloud Engineer,SkyWorks,"Chennai, TN, India",Full-time,Manage AWS and GCP cloud infrastructure.
+J009,AI Engineer (NLP),LinguaTech,"Hyderabad, TS, India",Full-time,Build NLP pipelines for chatbot and sentiment analysis.
+J010,Computer Vision Engineer,PixelAI,"Noida, UP, India",Full-time,Build deep learning models for image/video analysis.
+J011,DevOps Engineer,InfraTech,"Remote, India",Full-time,Automate CI/CD pipelines and manage Kubernetes clusters.
+J012,Mobile App Developer,Appify,"Bengaluru, KA, India",Full-time,Develop Android/iOS applications using Flutter.
+J013,Game Developer,PlayNext Studios,"Hyderabad, TS, India",Full-time,Design and build Unity/Unreal based games.
+J014,Software Engineer (C++),SysCore,"Chennai, TN, India",Full-time,Develop performance critical software systems.
+J015,IoT Engineer,SmartSense,"Pune, MH, India",Full-time,Build IoT solutions for smart devices and edge systems.
+J016,Business Analyst,FinPulse,"Mumbai, MH, India",Full-time,Analyze business requirements and prepare insights.
+J017,Product Manager,InnovateX,"Bengaluru, KA, India",Full-time,Define product roadmap and coordinate engineering teams.
+J018,Project Manager (IT),SoftBridge,"Delhi, DL, India",Full-time,Manage project delivery and stakeholder communication.
+J019,Digital Marketing Specialist,AdNova,"Remote, India",Full-time,Plan and execute digital marketing campaigns.
+J020,HR Tech Specialist,TalentHive,"Hyderabad, TS, India",Full-time,Implement HR systems and optimize recruitment workflows.
+J021,Mechanical Design Engineer,AutoMech,"Chennai, TN, India",Full-time,Design automotive components using CAD/CAE tools.
+J022,Electrical Engineer,VoltWorks,"Pune, MH, India",Full-time,Work on electrical systems and circuit design.
+J023,Civil Engineer,BuildSmart,"Delhi, DL, India",Full-time,Design and supervise infrastructure construction projects.
+J024,Chemical Engineer,ChemCore,"Vadodara, GJ, India",Full-time,Develop chemical process designs and safety protocols.
+J025,Aerospace Engineer,SkyTech Aerospace,"Bengaluru, KA, India",Full-time,Work on design and testing of aircraft components.
+J026,Ethical Hacker,HackSecure,"Remote, India",Full-time,Conduct penetration testing and security assessments.
+J027,SOC Analyst,CyberShield,"Mumbai, MH, India",Full-time,Monitor security events and investigate incidents.
+J028,Network Engineer,NetCore,"Delhi, DL, India",Full-time,Design and troubleshoot network infrastructure.
+J029,Quantum Computing Researcher,Qubit Labs,"Bengaluru, KA, India",Research,Research algorithms and architectures for quantum computing.
+J030,Robotics Engineer,RoboTech,"Hyderabad, TS, India",Full-time,Design and program robots for industrial automation.
+J031,AR/VR Developer,ImmersiX,"Chennai, TN, India",Full-time,Develop immersive AR/VR experiences and applications.
